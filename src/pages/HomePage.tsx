@@ -45,6 +45,20 @@ export const HomePage = () => {
       rating: 4.5,
       genre: "Terror/Suspenso",
       type: "movies"
+    },
+    {
+      title: "Besos, Kitty",
+      image: "https://static.wixstatic.com/media/d61107_abdb833d180e42b396e51c5c2c4269b3~mv2.jpg/v1/fill/w_540,h_756,al_c,lg_1,q_85,enc_avif,quality_auto/d61107_abdb833d180e42b396e51c5c2c4269b3~mv2.jpg",
+      rating: 4.5,
+      genre: "Drama",
+      type: "series"
+    },
+    {
+      title: "Tomorrow ",
+      image: "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYHVWr2tJ2YFYiqGii9LWgL7UuE-eC6WpDIUIDLgsZ3X8dFYLUSU7z-hmzDN0BPa2vsM4PsNdwDMmgjCX5JV-Eqi3d1-X-Nz55VgXkbCeqY_xh2CILec-qT7-x49a51Bhd0KWA.jpg?r=ed0",
+      rating: 4.5,
+      genre: "Drama/Fantasía",
+      type: "series"
     }
   ];
 

@@ -57,6 +57,10 @@ export const EllaPage = () => {
                 Tu amor incondicional
               </li>
               <li className="flex items-center gap-3">
+                <Heart  className="w-5 h-5 text-pink-400 dark:text-pink-300" />
+                Una maravillosa madre
+              </li>
+              <li className="flex items-center gap-3">
                 <Eye  className="w-5 h-5 text-pink-400 dark:text-pink-300" />
                 Tu mirada que penetra mi alma
               </li>
@@ -67,6 +71,10 @@ export const EllaPage = () => {
               <li className="flex items-center gap-3">
                 <Heart className="w-5 h-5 text-pink-400 dark:text-pink-300" />
                 Tu capacidad de perdonar
+              </li>
+              <li className="flex items-center gap-3">
+                <Heart  className="w-5 h-5 text-pink-400 dark:text-pink-300" />
+                Una gran mujer
               </li>
               <li className="flex items-center gap-3">
                 <Sparkles className="w-5 h-5 text-pink-400 dark:text-pink-300" />
@@ -120,6 +128,10 @@ export const EllaPage = () => {
               <li className="flex items-center gap-3">
                 <Film  className="w-5 h-5 text-pink-400 dark:text-pink-300" />
                 Las tardes de películas y mantas
+              </li>
+              <li className="flex items-center gap-3">
+                <Eclipse className="w-5 h-5 text-pink-400 dark:text-pink-300" />
+                Las noches juntos
               </li>
             </ul>
           </div>

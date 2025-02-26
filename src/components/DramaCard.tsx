@@ -40,8 +40,10 @@ export const DramaCard = ({ title, image, rating, genre, type }: DramaCardProps)
           </div>
           */}
           
-          <p className="text-sm font-medium text-pink-200 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
-            {genre}
+          <p className="text-sm font-medium">
+            <span className="bg-pink-300 text-white py-1 px-3 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+              {genre}
+            </span>
           </p>
           <button className="mt-4 flex items-center gap-2 px-4 py-2 bg-white/10 rounded-full backdrop-blur-sm transition-all duration-300 hover:bg-white/20 opacity-0 group-hover:opacity-100">
             <Play className="w-4 h-4" />
